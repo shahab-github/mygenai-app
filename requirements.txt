@@ -10,3 +10,6 @@ streamlit
 pypdf
 beautifulsoup4
 wikipedia
+
+faiss-cpu
+
