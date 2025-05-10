@@ -6,3 +6,7 @@ langchain
 langchain-openai
 langchain-community
 streamlit
+
+pypdf
+beautifulsoup4
+wikipedia
